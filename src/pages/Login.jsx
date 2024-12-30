@@ -5,6 +5,7 @@ const Login = () => {
   return (
     <div className="w-96 bg-purple-600 text-white rounded-lg p-8 mx-auto mt-20">
       <form action="/signin" method="post">
+      
         <h1 className="text-3xl font-bold text-center">Login</h1>
         <div className="relative w-full h-12 mt-8">
           <input
